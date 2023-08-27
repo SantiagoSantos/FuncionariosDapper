@@ -1,0 +1,12 @@
+D:\Projects\FuncionariosDapper\FuncionariosDapper.Application\bin\Debug\net6.0\FuncionariosDapper.Application.deps.json
+D:\Projects\FuncionariosDapper\FuncionariosDapper.Application\bin\Debug\net6.0\FuncionariosDapper.Application.dll
+D:\Projects\FuncionariosDapper\FuncionariosDapper.Application\bin\Debug\net6.0\FuncionariosDapper.Application.pdb
+D:\Projects\FuncionariosDapper\FuncionariosDapper.Application\obj\Debug\net6.0\FuncionariosDapper.Application.csproj.AssemblyReference.cache
+D:\Projects\FuncionariosDapper\FuncionariosDapper.Application\obj\Debug\net6.0\FuncionariosDapper.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FuncionariosDapper\FuncionariosDapper.Application\obj\Debug\net6.0\FuncionariosDapper.Application.AssemblyInfoInputs.cache
+D:\Projects\FuncionariosDapper\FuncionariosDapper.Application\obj\Debug\net6.0\FuncionariosDapper.Application.AssemblyInfo.cs
+D:\Projects\FuncionariosDapper\FuncionariosDapper.Application\obj\Debug\net6.0\FuncionariosDapper.Application.csproj.CoreCompileInputs.cache
+D:\Projects\FuncionariosDapper\FuncionariosDapper.Application\obj\Debug\net6.0\FuncionariosDapper.Application.dll
+D:\Projects\FuncionariosDapper\FuncionariosDapper.Application\obj\Debug\net6.0\refint\FuncionariosDapper.Application.dll
+D:\Projects\FuncionariosDapper\FuncionariosDapper.Application\obj\Debug\net6.0\FuncionariosDapper.Application.pdb
+D:\Projects\FuncionariosDapper\FuncionariosDapper.Application\obj\Debug\net6.0\ref\FuncionariosDapper.Application.dll

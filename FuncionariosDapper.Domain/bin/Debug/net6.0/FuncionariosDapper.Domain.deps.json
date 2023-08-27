@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FuncionariosDapper.Domain/1.0.0": {
+        "dependencies": {
+          "FuncionariosDapper.Application": "1.0.0"
+        },
+        "runtime": {
+          "FuncionariosDapper.Domain.dll": {}
+        }
+      },
+      "FuncionariosDapper.Application/1.0.0": {
+        "runtime": {
+          "FuncionariosDapper.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FuncionariosDapper.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FuncionariosDapper.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

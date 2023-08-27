@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>695e1835-9933-4533-8b5a-be54fc3b4030</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FuncionariosDapper.Domain\FuncionariosDapper.Domain.csproj" />
+    <ProjectReference Include="..\FuncionariosDapper.Infra\FuncionariosDapper.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FuncionariosDapper.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FuncionariosDapper.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FuncionariosDapper.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FuncionariosDapper.Application/1.0.0": {
+      "type": "project",
+      "path": "../FuncionariosDapper.Application/FuncionariosDapper.Application.csproj",
+      "msbuildProject": "../FuncionariosDapper.Application/FuncionariosDapper.Application.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FuncionariosDapper.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\paulo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\FuncionariosDapper\\FuncionariosDapper.Domain\\FuncionariosDapper.Domain.csproj",
+      "projectName": "FuncionariosDapper.Domain",
+      "projectPath": "D:\\Projects\\FuncionariosDapper\\FuncionariosDapper.Domain\\FuncionariosDapper.Domain.csproj",
+      "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\FuncionariosDapper\\FuncionariosDapper.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Projects\\FuncionariosDapper\\FuncionariosDapper.Application\\FuncionariosDapper.Application.csproj": {
+              "projectPath": "D:\\Projects\\FuncionariosDapper\\FuncionariosDapper.Application\\FuncionariosDapper.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
